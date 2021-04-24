@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(177, 231, 231);
+    margin: 0;
+    
+}
+
+h1 {
+    color: rgb(109, 102, 102);
+    text-align: center;
+
+}
+
+nav {
+    background-color: gray;
+    padding: 10px 250px;
+    
+
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+nav li {
+    list-style-type: none;
+    padding: 14px 16px;
+           
+}
+
+h2 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+section {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(231, 223, 133);
+    text-align: center;
+}
